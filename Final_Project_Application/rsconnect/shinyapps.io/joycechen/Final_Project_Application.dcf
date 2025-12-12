@@ -1,0 +1,12 @@
+name: Final_Project_Application
+title: Final_Project_Application
+username: joycechen
+account: joycechen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16305400
+bundleId: 11316761
+url: https://joycechen.shinyapps.io/Final_Project_Application/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
