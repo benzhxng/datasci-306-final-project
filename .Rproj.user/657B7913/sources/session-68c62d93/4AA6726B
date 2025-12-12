@@ -1,0 +1,26 @@
+{
+    "id": "4AA6726B",
+    "path": "~/Desktop/datasci306 final project/Final_Shiny_App/app.R",
+    "project_path": "Final_Shiny_App/app.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1765572491013.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "392,9",
+        "scrollLine": "129"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1765575312,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1765575312632,
+    "read_only": false,
+    "read_only_alternatives": []
+}
