@@ -1,4 +1,4 @@
-# datasci-306-final-project
+# Long-Term Trends Between Sugar Intake, BMI, and Obesity Across Demographic Groups
 
 Our Shiny App provides a fully functional user interactive interface that allows for exploration of sugar intake trends across demographic groups such as age and gender ranging from 2000 to 2018. The app draws real world data from the National Health and Nutrition Examination Survey (NHANES) dataset, enabling users to visualize how sugar intake patterns relate to BMI and obesity trends in the United States. 
 
