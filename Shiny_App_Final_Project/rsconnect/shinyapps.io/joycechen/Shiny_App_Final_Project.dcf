@@ -1,0 +1,12 @@
+name: Shiny_App_Final_Project
+title: Shiny_App_Final_Project
+username: joycechen
+account: joycechen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16305161
+bundleId: 11316524
+url: https://joycechen.shinyapps.io/Shiny_App_Final_Project/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
